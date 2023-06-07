@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoosiertransfer" alt="hoosiertransfer" /></a> </p>
 
-- 🔭 I’m currently working on a [slimefun calculator](https://github.com/HoosierTransfer/slimefun-calculator)
+- 🔭 I’m currently working on a node editor.
 
 - 🌱 I’m currently learning **C**
 
-- 🤝 I’m looking for help with [my blog](https://github.com/HoosierTransfer/hoosiertranfer-main-site)
+- 🤝 I’m looking for help with the node editor.
 
 - 💬 Ask me about **javascript**
 

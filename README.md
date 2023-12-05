@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoosiertransfer" alt="hoosiertransfer" /></a> </p>
 
-- 🔭 I’m currently working on a node editor.
+- 🔭 I’m currently working on science help v2.
 
-- 🌱 I’m currently learning **C**
-
-- 🤝 I’m looking for help with the node editor.
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **javascript**
 
-- 📫 How to reach me **HoosierTransfer#9327**
+- 📫 How to reach me **@HoosierTransfer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

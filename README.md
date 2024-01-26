@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoosiertransfer" alt="hoosiertransfer" /></a> </p>
 
-- 🔭 I’m currently working on science help v2.
+- 🔭 I like cellular automata.
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **c++**
 
-- 💬 Ask me about **javascript**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **@HoosierTransfer**
 

@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm HoosierTransfer</h1>
-<h3 align="center">A programmer who doesn't actually know how to program.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoosiertransfer&label=Profile%20views&color=0e75b6&style=flat" alt="hoosiertransfer" /> </p>
 

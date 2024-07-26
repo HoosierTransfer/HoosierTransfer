@@ -6,9 +6,7 @@
 
 - 🔭 I like cellular automata.
 
-- 🌱 I’m currently learning **c++**
-
-- 💬 Ask me about **python**
+- 💬 Ask me about **c++ or java**
 
 - 📫 How to reach me **@HoosierTransfer**
 

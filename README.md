@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **c++ or java**
 
-- 📫 How to reach me **@HoosierTransfer**
+- 📫 How to reach me **@HoosierTransfer** on discord
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

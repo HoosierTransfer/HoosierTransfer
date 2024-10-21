@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoosiertransfer" alt="hoosiertransfer" /></a> </p>
 
-- 🔭 I like cellular automata.
+- 🔭 I'm very silly
 
 - 💬 Ask me about **c++ or java**
 

@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **@HoosierTransfer** on discord
 
-<a href="https://hoosiertransfer.net>Check out my website</a>
+<a href="https://hoosiertransfer.net">Check out my website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
